@@ -14,7 +14,7 @@ Incluye un trabajo de preprocesamiento (archivo "Crime_limpieza") sobre una fuen
 ## *Aplicación*:
 Una aplicación implementada en Python para gestionar un sistema de stock de mercancía.
 
-# Portfolio english.
+# Portfolio English Version.
 Greetings, in this small showcase of my work, you will discover three sections:
 
 ## *Data Analysis*:
