@@ -1,4 +1,4 @@
-# Portfolio español.
+# Portfolio en español.
 Saludos, en esta pequeña muestra de mis trabajos descubrirás tres secciones:
 
 ## *Análisis de Datos*:
