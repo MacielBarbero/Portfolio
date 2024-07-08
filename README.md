@@ -14,9 +14,6 @@ Incluye un trabajo de preprocesamiento (archivo "Crime_limpieza") sobre una fuen
 ## *Aplicación*:
 Una aplicación implementada en Python para gestionar un sistema de stock de mercancía.
 
-### Explicación de los enlaces:
-Para crear los enlaces, primero copié las URL proporcionadas en español. Luego, las incluí en el formato Markdown para enlaces en el texto. Markdown es un lenguaje de marcado ligero que permite dar formato a texto de manera sencilla, incluyendo la creación de enlaces usando el formato `[Texto del enlace](URL)`. Esto permite que los enlaces sean clicables y lleven directamente a las páginas de Deepnote y Google Colab donde se pueden ver los trabajos y la aplicación mencionados.
-
 # Portfolio english.
 Greetings, in this small showcase of my work, you will discover three sections:
 
