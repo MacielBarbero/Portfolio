@@ -1,5 +1,5 @@
 # Portfolio en español.
-Saludos, en esta pequeña muestra de mis trabajos descubrirás tres secciones:
+Saludos, en esta pequeña muestra de mis trabajos descubrirás dos secciones:
 
 ## *Análisis de Datos*:
 Contiene dos ejemplos de análisis realizados con Python utilizando las bases "business" y "exams". Puedes visualizarlos directamente en Deepnote a través de los siguientes enlaces:
@@ -15,7 +15,7 @@ Incluye un trabajo de preprocesamiento (archivo "Crime_limpieza") sobre una fuen
 
 
 # Portfolio English Version.
-Greetings, in this small showcase of my work, you will discover three sections:
+Greetings, in this small showcase of my work, you will discover two sections:
 
 ## *Data Analysis*:
 Contains two examples of analyses done with Python using the "business" and "exams" datasets. You can view them directly on Deepnote using the following links:
