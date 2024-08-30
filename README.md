@@ -12,8 +12,7 @@ Incluye un trabajo de preprocesamiento (archivo "Crime_limpieza") sobre una fuen
 - [Modelización de Crímenes](https://colab.research.google.com/drive/1gLLOP36TNnDDSzjlGpKOSeaXW_NYoCK5?usp=sharing)
 - [Modelización de Crímenes 2](https://deepnote.com/app/trabajofinalcac2024/CrimesRLDT-cb2c56ba-fda3-4142-bfc3-4286b760295e)
 
-## *Aplicación*:
-Una aplicación implementada en Python para gestionar un sistema de stock de mercancía.
+
 
 # Portfolio English Version.
 Greetings, in this small showcase of my work, you will discover three sections:
@@ -29,5 +28,4 @@ Includes preprocessing work (file 'Crime_limpieza') on crime data sourced from t
 - [Crime Modeling](https://colab.research.google.com/drive/1gLLOP36TNnDDSzjlGpKOSeaXW_NYoCK5?usp=sharing)
 - [Crime Modeling 2](https://deepnote.com/app/trabajofinalcac2024/CrimesRLDT-cb2c56ba-fda3-4142-bfc3-4286b760295e)
 
-## *Application*:
-An application implemented in Python for managing a merchandise stock system.
+
