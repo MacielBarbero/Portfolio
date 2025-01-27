@@ -6,6 +6,12 @@ Contiene dos ejemplos de análisis realizados con Python utilizando las bases "b
 - [Ejemplo de Negocios](https://deepnote.com/publish/Businessexample-72e6d457-a662-4ecb-9372-7bc53df76810)
 - [Ejemplo de Exámenes](https://deepnote.com/publish/ExamsexamplePython-1ace137c-e965-4bee-80f9-3c8ce1bd424f)
 
+## Análisis de Datos en Looker:
+
+En esta sección podrás ver una visualización interactiva sobre **conexiones de internet, telefonía móvil y redes alrededor del mundo**. Los datos están disponibles en Looker y puedes explorarlos a través del siguiente enlace:
+
+- [Visualización en Looker](https://lookerstudio.google.com/s/sqqFFOUXuHc)
+
 ## *Ciencia de Datos*:
 Incluye un trabajo de preprocesamiento (archivo "Crime_limpieza") sobre una fuente de datos de crímenes de la ciudad de Buenos Aires y un posible intento de modelización con Máquinas de Vector de Soporte (archivo "Crime_compartir") y otro con Random Forest, Regresión Logística y Gradient Boosting (archivo "Crimes_RL_DT") . Puedes visualizarlos directamente en Google Colab y Deepnote mediante los siguientes enlaces:
 - [Preprocesamiento de Crímenes](https://drive.google.com/file/d/17G6Qh_FlVi6LK8PkRSyYfkG6w6SdXZXT/view?usp=sharing)
@@ -21,6 +27,12 @@ Greetings, in this small showcase of my work, you will discover two sections:
 Contains two examples of analyses done with Python using the "business" and "exams" datasets. You can view them directly on Deepnote using the following links:
 - [Business Example](https://deepnote.com/publish/Businessexample-72e6d457-a662-4ecb-9372-7bc53df76810)
 - [Exams Example](https://deepnote.com/publish/ExamsexamplePython-1ace137c-e965-4bee-80f9-3c8ce1bd424f)
+
+## Data Analysis in Looker:
+
+In this section, you'll find an interactive visualization on **internet connections, mobile phone networks, and global networks**. The data is available on Looker, and you can explore it through the following link:
+
+- [Looker Visualization](https://lookerstudio.google.com/s/sqqFFOUXuHc)
 
 ## *Data Science*:
 Includes preprocessing work (file 'Crime_limpieza') on crime data sourced from the city of Buenos Aires, and a potential attempt at modeling using Support Vector Machines (file 'Crime_comartir') as well as another one with Random Forest, Logistic Regression, and Gradient Boosting (file 'Crimes_RL_DT'). You can view them directly on Google Colab or Deepnote using the following links:
