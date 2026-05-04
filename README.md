@@ -1,43 +1,89 @@
-# Portfolio en español.
-Saludos, en esta pequeña muestra de mis trabajos descubrirás tres secciones:
+# Portfolio en español
 
-## *Análisis de Datos*:
-Contiene dos ejemplos de análisis realizados con Python utilizando las bases "business" y "exams". Puedes visualizarlos directamente en Deepnote a través de los siguientes enlaces:
-- [Ejemplo de Negocios](https://deepnote.com/publish/Businessexample-72e6d457-a662-4ecb-9372-7bc53df76810)
+Este portfolio reúne proyectos de análisis de datos, visualización y ciencia de datos aplicados en distintos dominios, con foco en la extracción de insights, modelado estadístico y aprendizaje supervisado.
+
+---
+
+## Análisis de Datos
+
+En esta sección se presentan dos ejemplos de análisis exploratorio de datos desarrollados con Python, utilizando los datasets "business" y "exams".  
+El objetivo es explorar estructuras de datos, identificar patrones relevantes y aplicar técnicas básicas de visualización y estadística descriptiva.
+
+- [Ejemplo de Negocios](https://deepnote.com/publish/Businessexample-72e6d457-a662-4ecb-9372-7bc53df76810)  
 - [Ejemplo de Exámenes](https://deepnote.com/publish/ExamsexamplePython-1ace137c-e965-4bee-80f9-3c8ce1bd424f)
 
-## Análisis de Datos en Looker:
+---
 
-En esta sección podrás ver una visualización interactiva sobre **conexiones de internet, telefonía móvil y redes alrededor del mundo**. Los datos están disponibles en Looker y puedes explorarlos a través del siguiente enlace:
+## Análisis de Datos en Looker
+
+Esta sección presenta una visualización interactiva sobre infraestructura global de telecomunicaciones, incluyendo conexiones de internet, telefonía móvil y redes a nivel mundial.
 
 - [Visualización en Looker](https://lookerstudio.google.com/s/sqqFFOUXuHc)
 
-## *Ciencia de Datos*:
-Incluye un trabajo de preprocesamiento (archivo "Crime_limpieza") sobre una fuente de datos de crímenes de la ciudad de Buenos Aires y un posible intento de modelización con Máquinas de Vector de Soporte (archivo "Crime_compartir") y otro con Random Forest, Regresión Logística y Gradient Boosting (archivo "Crimes_RL_DT") . Puedes visualizarlos directamente en Google Colab y Deepnote mediante los siguientes enlaces:
-- [Preprocesamiento de Crímenes](https://drive.google.com/file/d/17G6Qh_FlVi6LK8PkRSyYfkG6w6SdXZXT/view?usp=sharing)
-- [Modelización de Crímenes](https://colab.research.google.com/drive/1gLLOP36TNnDDSzjlGpKOSeaXW_NYoCK5?usp=sharing)
-- [Modelización de Crímenes 2](https://deepnote.com/app/trabajofinalcac2024/CrimesRLDT-cb2c56ba-fda3-4142-bfc3-4286b760295e)
+---
 
+## Ciencia de Datos
 
+Este proyecto se centra en el análisis de datos médicos orientado a la predicción del riesgo de ataque cardíaco, utilizando el dataset “Heart Attack Dataset”.
 
-# Portfolio English Version.
-Greetings, in this small showcase of my work, you will discover three sections:
+El trabajo incluye:
 
-## *Data Analysis*:
-Contains two examples of analyses done with Python using the "business" and "exams" datasets. You can view them directly on Deepnote using the following links:
-- [Business Example](https://deepnote.com/publish/Businessexample-72e6d457-a662-4ecb-9372-7bc53df76810)
+- Análisis exploratorio de datos (EDA)
+- Selección de variables clínicas relevantes
+- Análisis estadístico mediante ANOVA para evaluar diferencias significativas entre grupos
+- Construcción de un modelo de Regresión Logística Binaria para la predicción del riesgo cardiovascular
+- Evaluación del modelo mediante métricas de clasificación (accuracy, recall, precision, F1-score y ROC-AUC)
+- Interpretación de coeficientes y odds ratios con enfoque clínico
+
+El objetivo principal es identificar los factores clínicos más influyentes en la predicción de eventos cardíacos y evaluar su capacidad explicativa y predictiva.
+
+Puedes acceder al proyecto en los siguientes enlaces:
+
+- [Análisis Exploratorio y ANOVA - Riesgo Cardíaco (Parte 01)](https://colab.research.google.com/drive/1_tznLNqCxvFcrmKRNm7RByUS6egN-Z5G?usp=sharing)  
+- [Modelo de Regresión Logística - Predicción de Riesgo Cardíaco (Parte 02)](https://colab.research.google.com/drive/1abC0mw6DAaZfs7VMZNpNqEJlkbvMBdCL?usp=sharing)
+
+---
+
+# Portfolio English Version
+
+This portfolio presents projects in data analysis, visualization, and data science applied across different domains, focusing on insight extraction, statistical modeling, and supervised learning.
+
+---
+
+## Data Analysis
+
+This section includes two exploratory data analysis projects developed in Python using the "business" and "exams" datasets.  
+The goal is to explore data structures, identify relevant patterns, and apply basic visualization and statistical techniques.
+
+- [Business Example](https://deepnote.com/publish/Businessexample-72e6d457-a662-4ecb-9372-7bc53df76810)  
 - [Exams Example](https://deepnote.com/publish/ExamsexamplePython-1ace137c-e965-4bee-80f9-3c8ce1bd424f)
 
-## Data Analysis in Looker:
+---
 
-In this section, you'll find an interactive visualization on **internet connections, mobile phone networks, and global networks**. The data is available on Looker, and you can explore it through the following link:
+## Data Visualization in Looker
+
+This section presents an interactive visualization of global telecommunications infrastructure, including internet connections, mobile networks, and worldwide connectivity.
 
 - [Looker Visualization](https://lookerstudio.google.com/s/sqqFFOUXuHc)
 
-## *Data Science*:
-Includes preprocessing work (file 'Crime_limpieza') on crime data sourced from the city of Buenos Aires, and a potential attempt at modeling using Support Vector Machines (file 'Crime_comartir') as well as another one with Random Forest, Logistic Regression, and Gradient Boosting (file 'Crimes_RL_DT'). You can view them directly on Google Colab or Deepnote using the following links:
-- [Crime Preprocessing](https://drive.google.com/file/d/17G6Qh_FlVi6LK8PkRSyYfkG6w6SdXZXT/view?usp=sharing)
-- [Crime Modeling](https://colab.research.google.com/drive/1gLLOP36TNnDDSzjlGpKOSeaXW_NYoCK5?usp=sharing)
-- [Crime Modeling 2](https://deepnote.com/app/trabajofinalcac2024/CrimesRLDT-cb2c56ba-fda3-4142-bfc3-4286b760295e)
+---
 
+## Data Science
 
+This project focuses on medical data analysis aimed at predicting heart attack risk using the “Heart Attack Dataset”.
+
+The work includes:
+
+- Exploratory Data Analysis (EDA)
+- Feature selection of relevant clinical variables
+- Statistical analysis using ANOVA to assess group differences
+- Development of a Binary Logistic Regression model for cardiovascular risk prediction
+- Model evaluation using classification metrics (accuracy, recall, precision, F1-score, ROC-AUC)
+- Interpretation of coefficients and odds ratios from a clinical perspective
+
+The main goal is to identify the most influential clinical risk factors and evaluate their predictive and explanatory power.
+
+You can access the project through the following links:
+
+- [Exploratory Analysis and ANOVA - Cardiac Risk (Part 01)](https://colab.research.google.com/drive/1_tznLNqCxvFcrmKRNm7RByUS6egN-Z5G?usp=sharing)  
+- [Logistic Regression Model - Cardiac Risk Prediction (Part 02)](https://colab.research.google.com/drive/1abC0mw6DAaZfs7VMZNpNqEJlkbvMBdCL?usp=sharing)
